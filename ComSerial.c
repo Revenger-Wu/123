@@ -1,5 +1,5 @@
 #include "ComSerial.h"
-//
+////
 unsigned char SerialSendBuf[5];
 unsigned char SerialReceBuf[5];
 
